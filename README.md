@@ -1,3 +1,5 @@
+# Note: I recommend using the forge library (https://github.com/digitalbazaar/forge) over cryptico. It's better maintained and has more eyes on it.
+
 # cryptico
 
 ## Overview
